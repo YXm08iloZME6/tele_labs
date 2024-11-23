@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E65706A-0FC3-4531-959F-B892BA691796}|TCP-Client\\TCP-Client.csproj|c:\\users\\private\\documents\\projects\\tcp\\tcp-client\\tcp-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E65706A-0FC3-4531-959F-B892BA691796}|TCP-Client\\TCP-Client.csproj|solutionrelative:tcp-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E65706A-0FC3-4531-959F-B892BA691796}|TCP-Client\\TCP-Client.csproj|C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\tcp-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E65706A-0FC3-4531-959F-B892BA691796}|TCP-Client\\TCP-Client.csproj|solutionrelative:tcp-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\TCP-Client\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP-Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\TCP-Client\\Form1.cs",
+              "RelativeToolTip": "TCP-Client\\Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAArwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:52:35.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\TCP-Client\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP-Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\TCP-Client\\Form1.cs [Design]",
+              "RelativeToolTip": "TCP-Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:33:54.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

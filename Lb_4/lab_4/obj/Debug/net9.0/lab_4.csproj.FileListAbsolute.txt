@@ -1,0 +1,15 @@
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.AssemblyInfoInputs.cache
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.AssemblyInfo.cs
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.sourcelink.json
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/bin/Debug/net9.0/lab_4
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/bin/Debug/net9.0/lab_4.deps.json
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/bin/Debug/net9.0/lab_4.runtimeconfig.json
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/bin/Debug/net9.0/lab_4.dll
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/bin/Debug/net9.0/lab_4.pdb
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.dll
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/refint/lab_4.dll
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.pdb
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/lab_4.genruntimeconfig.cache
+/Users/dmitrij/Documents/Tele/Lb_4/lab_4/obj/Debug/net9.0/ref/lab_4.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/5BxLsbDZcY=",
+  "dgSpecHash": "mN4SkdWaa0w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\private\\Documents\\Projects\\tcp\\TCP-Client\\TCP-server\\TCP-server.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/dmitrij/Documents/Tele/Lb_3/TCP-server/TCP-server.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmitrij/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/dmitrij/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/dmitrij/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
